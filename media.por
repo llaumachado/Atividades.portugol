@@ -9,10 +9,10 @@ programa {
     % Resto da divisao
     */
 
-    // declaração de variavél 
+    // declaraÃ§Ã£o de variavÃ©l 
     real nota1, nota2, nota3,nota4
 
-    //atribuição
+    //atribuiÃ§Ã£o
     escreva("digite o valor de nota 1:")
     leia(nota1)
     escreva ("digite valor de nota 2: ")
@@ -22,7 +22,7 @@ programa {
     escreva ("digite valor de nota 4: ")
     leia(nota4)
 
-   //Operação aritméticas
+   //OperaÃ§Ã£o aritmÃ©ticas
    escreva ("\nA media final ",(nota1+ nota2+nota3+nota4)/4)
    
   }
